@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Staroooch
 - 👀 I’m interested in programming Webites and small programs
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning: Python,React
 - 😄 Pronouns: JwuS
 
 <!---
